@@ -166,7 +166,9 @@ margin-top: 680px;
 } 
 .section-award h1{ 
   font-size: 30px;
-  margin-bottom: 20px;
+}
+.section-award h5{ 
+  color: grey;
 }
 .section-award p{ 
  color: grey;
